@@ -1,0 +1,12 @@
+.installed.cfg
+*~
+*.pyc
+*.pyo
+*sublime-*
+bin/*
+develop-eggs/*
+downloads/*
+eggs/*
+img/*/*
+parts/*
+tmp/*
