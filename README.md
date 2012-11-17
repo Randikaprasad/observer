@@ -1,4 +1,4 @@
-observer
+Observer
 ========
 
-Monitoring using OpenCV
+Monitoring using OpenCV - just my little experiments.
