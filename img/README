@@ -1,0 +1,5 @@
+This directory stores all the captured images before they're loaded to MongoDB.
+Directories look like this:
+
+./<camera-name>/<year>/<month>/<day>/<HHMMSS_time>_<framecount>.jpg
+
